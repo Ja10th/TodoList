@@ -3,11 +3,11 @@
 <p align="center">This is a simple Todolist application built with React. It allows users to add and delete tasks, mark them as completed, and filter them based on their completion status. The application uses local storage to persist the data so users can close and reopen the application without losing their data.</p>
 <h2 align="center">Features </h2>
 
-    <p align="center"> Add new tasks </p>
-   <p align="center"> Mark tasks as completed </p>
-   <p align="center"> Delete tasks </p>
-   <p align="center"> Filter tasks based on their completion status </p>
-   <p align="center"> Persist data using local storage </p>
+   <p align="left"> Add new tasks </p>
+   <p align="left"> Mark tasks as completed </p>
+   <p align="left"> Delete tasks </p>
+   <p align="left"> Filter tasks based on their completion status </p>
+   <p align="left"> Persist data using local storage </p>
 
 <h2 align="center"> Technologies Used </h2>
 
