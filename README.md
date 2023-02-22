@@ -1,5 +1,5 @@
 <h1 align="left"> React Todolist </h1>
-![Screenshot 2023-02-22 at 19-41-31 React App](https://user-images.githubusercontent.com/100203073/220737808-4c7f2413-0d43-4c3e-a889-ec6643040441.png)
+<img src="https://user-images.githubusercontent.com/100203073/220737808-4c7f2413-0d43-4c3e-a889-ec6643040441.png" alt="namm" /> 
 
 
 <p align="left">This is a simple Todolist application built with React. It allows users to add and delete tasks, mark them as completed, and filter them based on their completion status. The application uses local storage to persist the data so users can close and reopen the application without losing their data.</p>
