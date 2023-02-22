@@ -1,5 +1,5 @@
 <h1 align="center"> React Todolist </h1>
-<a align="center" href="https://groupseven.netlify.app/"> Click here </a>
+<p align="center"><a align="center" href="https://groupseven.netlify.app/"> Click here </a> </p>
 <img src="https://user-images.githubusercontent.com/100203073/220737808-4c7f2413-0d43-4c3e-a889-ec6643040441.png" alt="namm" /> 
 
 
